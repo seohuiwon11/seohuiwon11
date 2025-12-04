@@ -67,29 +67,67 @@
   - 데이터 처리 흐름, 파일 역할, 모듈 간 관계 정리
  
 ---
+
+## Recent GitHub Activity
+
+<!-- GitHub Activity Summary -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seohuiwon11&theme=react-dark&hide_border=true)
+
+---
 ## Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohuiwon11)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohuiwon11)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=seohuiwon11&theme=react&line_height=40&hide=css"/> </a>
 
-  ## 📊 GitHub Stats
-<div align="center">
+---
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=seohuiwon11&show_icons=true&theme=tokyonight"
-    height="180em"
-  />
+## Open Source Contributions
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohuiwon11&layout=compact&theme=tokyonight"
-    height="180em"
-  />
+현재 참여 또는 기여한 오픈소스 프로젝트 목록
 
-</div>
+| Project | Description | Contribution |
+|--------|-------------|--------------|
+| [Novisit](https://github.com/pknu-wap/Novisit) | 도메인 기반 공지·알림 제공 웹앱 | 기능 개발, 버그 수정 |
+| [public-toilet-datamap](https://github.com/yuumrj/public-toilet-datamap) | 공중화장실 지도 및 데이터 시각화 프로젝트 | 데이터 전처리, 지도 페이지 구현 |
+| [korea-population](https://github.com/Scannning-PKNU/korea-population) | 인구 데이터 시각화 실습 | 데이터 처리 |
 
 
 ---
 
+## Learning Repositories & Tech Stack
+
+### 🔧 Currently Learning / Practicing
+| Repository | Focus Area | Tech |
+|------------|------------|------|
+| [public-toilet-datamap](https://github.com/seohuiwon11/public-toilet-datamap) | 데이터 시각화 & 지도 | Python, Pandas, Folium, Streamlit |
+| [Novisit](https://github.com/seohuiwon11/Novisit) | 풀스택 웹앱 | TypeScript, React |
+
+
+---
+
+## ⚙️ GitHub Actions
+
+![CI Status](https://img.shields.io/badge/CI%2FCD-Automated-blue?logo=githubactions&logoColor=white)
+
+---
+
+##  Open Source Contributions
+
+### 🔹 Novisit (Forked from pknu-wap/Novisit)
+- FE 기능 개선 및 UI/UX 작업  
+- FCM 기반 알림 기능 개선 및 실시간 알림 로직 개발  
+- 서비스워커 오류 수정 및 브라우저 호환성 개선  
+-🔗 https://github.com/seohuiwon11/Novisit
+
+---
+
+### 🔹 public-toilet-datamap  
+- 공중화장실 위치 기반 대시보드 개발  
+- 지도 페이지 모달 창 디자인
+- 설정 페이지 구현 및 지도 페이지와 연동
+-🔗 https://github.com/seohuiwon11/public-toilet-datamap  
+
+
+---
 <div align="center">
   Thank you for visiting! 🌿  
 </div>
+

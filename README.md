@@ -105,7 +105,9 @@
 
 ## ⚙️ GitHub Actions
 
-![CI Status](https://img.shields.io/badge/CI%2FCD-Automated-blue?logo=githubactions&logoColor=white)
+![CI Status](https://img.shields.io/badge/CI%20Pipeline-Passing-brightgreen?logo=githubactions&logoColor=white)
+![CD Status](https://img.shields.io/badge/CD%20Pipeline-Active-blue?logo=githubactions&logoColor=white)
+
 
 ---
 
@@ -123,8 +125,34 @@
 - 공중화장실 위치 기반 대시보드 개발  
 - 지도 페이지 모달 창 디자인
 - 설정 페이지 구현 및 지도 페이지와 연동
--🔗 https://github.com/seohuiwon11/public-toilet-datamap  
+-🔗 https://github.com/seohuiwon11/public-toilet-datamap
 
+---
+
+## Tech Roadmap (Learning Goals)
+
+- **Java & Spring Boot 심화 학습**  
+  안정적인 백엔드 서비스 구축을 위한 핵심 기술 학습
+
+- **Database 고도화**  
+  MySQL · PostgreSQL · Redis 활용 및 성능 최적화 경험 확장
+
+- **REST API 설계 & 인증 시스템**  
+  JWT, OAuth2 기반 인증/인가 구조 설계 능력 강화
+
+- **CI/CD 파이프라인 구축**  
+  GitHub Actions · Docker · AWS 기반 자동 배포 환경 학습
+
+- **클라우드 인프라 경험**  
+  AWS EC2, S3, RDS 등을 활용한 서버 운영 및 배포 구조 이해
+
+- **테스트 및 품질 관리**  
+  JUnit · Mockito를 통한 단위/통합 테스트 학습 및 코드 품질 향상
+
+- **프론트엔드 기본기 보완**  
+  React 기초 유지 및 API 연동 구조 이해
+
+> 꾸준히 성장하며 실제 서비스 운영에 필요한 백엔드 역량을 강화하는 것을 목표로 합니다.
 
 ---
 <div align="center">

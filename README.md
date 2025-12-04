@@ -68,7 +68,25 @@
  
 ---
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?seohuiwon11=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohuiwon11)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohuiwon11)](https://github.com/anuraghazra/github-readme-stats)
+
+  ## 📊 GitHub Stats
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=seohuiwon11&show_icons=true&theme=tokyonight"
+    height="180em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohuiwon11&layout=compact&theme=tokyonight"
+    height="180em"
+  />
+
+</div>
+
 
 ---
 
